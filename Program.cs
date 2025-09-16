@@ -12,3 +12,7 @@ Console.WriteLine("Master continue");
 Console.WriteLine("Test1");
 
 Console.WriteLine("Test #1");
+
+Console.WriteLine("Test #2");
+
+Console.WriteLine("Master");
